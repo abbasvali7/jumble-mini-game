@@ -28,8 +28,9 @@ export function LevelSelect({ unlocked, stars, totalScore, onSelect }: LevelSele
           ))}
         </div>
         <h1 className="font-display text-4xl font-extrabold tracking-tight text-balance sm:text-5xl">
-          Word Jumble
+          Jumble
         </h1>
+        <p className="-mt-2 text-sm font-medium italic text-muted-foreground">by Abbas Vali</p>
         <p className="text-muted-foreground max-w-sm text-pretty leading-relaxed">
           Unscramble the letters to find the hidden word. Each level gets longer and trickier.
         </p>

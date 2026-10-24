@@ -7,7 +7,7 @@ const geist = Geist({ subsets: ['latin'], variable: '--font-geist' })
 const bricolage = Bricolage_Grotesque({ subsets: ['latin'], variable: '--font-bricolage' })
 
 export const metadata: Metadata = {
-  title: 'Word Jumble — Unscramble the Letters',
+  title: 'Jumble by Abbas Vali — Unscramble the Letters',
   description:
     'A word puzzle game: unscramble jumbled letters across 10 levels that get harder as you go. Use hints, earn stars, and become a Grandmaster.',
   generator: 'v0.app',
